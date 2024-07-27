@@ -24,7 +24,10 @@ I have experience in softwares and technologies like:
 ## 📫How to reach me:
 
 Reach me on my 
+
+  Linkdin Profile:  <a href="https://www.linkedin.com/in/harinder-kumar-036640207/">Harinder_kumar</a>
   
+  Institute Gmail:  <a href="https://www.linkedin.com/in/harinder-kumar-036640207/"> harinder.kumar.phy20@ithu.ac.in</a>
   <p align="center">
   <a href="https://www.linkedin.com/in/harinder-kumar-036640207/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
   <a href="mailto:harinder.kumar.phy20@itbhu.ac.in"><img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> 
