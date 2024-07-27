@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Harinder Kumar and I'm currently pursing IDD (B.Tech + M.Tech) degree from IIT BHU. 
-- 👀 I’m a Data science and machine learning enthusiatic...
-- I have done several projects in Data Science disciplinary.
-- 🌱 I’m currently looking for Data science, computer vision and machine learning internship...
-- 💞️ I’m looking to collaborate on machine learnig and computer vision...
-- 📫 to contact me drop me an email@ kharinder361@gmail.com...
+👋 Hi, I’m @Harry4007
 
-<!---
-Harry4007/Harry4007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Harinder Kumar . Welcome to my GitHub Page . I'm an Engineering Physics student at IIT BHU Varanasi (EP'25) . I am fascinated by technology and love engineering very much . My work on vast variety of projects is availaible in my repositories , please see them :)
+
+👀 I’m interested in ...
+
+I'm intrested and skilled in
+
+Machine Learning ( Particularly Data Science, Computer Vision, Deep Learning , AI , Data Analytics tad bit experience with NLP, RL and Time series too ) (Most Interested here :)
+Product (Product Management, Business acumen, Finance)
+Robotics (Reinforcement Learning , Robot Dynamics , probablistic robotics each , but like robotics as a whole)
