@@ -6,7 +6,7 @@ Hi, I'm Harinder Kumar . Welcome to my GitHub Page . I'm an Engineering Physics 
 
 I'm intrested and skilled in:
 
-Machine Learning ( Particularly Data Science, Computer Vision, Deep Learning , AI , Data Analytics, NLP, and a little bit of RL and Time series too ) (Most Interested here :)
+Machine Learning ( Particularly Data Science, Computer Vision, Deep Learning , AI , Data Analytics, NLP, and a little bit of RL and Time series too )
 
 Product (Product Management, Business acumen, Finance)
 
