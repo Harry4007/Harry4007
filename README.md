@@ -13,7 +13,6 @@ Product (Product Management, Business acumen, Finance)
 Robotics (Reinforcement Learning, Robot Dynamics, probablistic robotics each, but like robotics as a whole)
 
 <p align='center'><img src="https://img.shields.io/badge/Machine Learning-green"><img src="https://img.shields.io/badge/Deep Learning-red"><img src="https://img.shields.io/badge/Computer Vision-magenta"><img src="https://img.shields.io/badge/Data Science-blue"><img src="https://img.shields.io/badge/Natural Language Processing-red"><img src="https://img.shields.io/badge/Data Analytics-lightgreen"><img src="https://img.shields.io/badge/Data Structures and Algorithms-green"><img src="https://img.shields.io/badge/Robotics-brown"></p>
-# What I want you to see here on my page :
 
 ## Experience
 I have experience in softwares and technologies like:
