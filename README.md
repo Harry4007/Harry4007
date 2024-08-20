@@ -8,8 +8,6 @@ I'm intrested and skilled in:
 
 Machine Learning ( Particularly Data Science, Computer Vision, Deep Learning , AI , Data Analytics, NLP, and a little bit of RL and Time series too )
 
-Product (Product Management, Business acumen, Finance)
-
 Robotics (Reinforcement Learning, Robot Dynamics, probablistic robotics each, but like robotics as a whole)
 
 <p align='center'><img src="https://img.shields.io/badge/Machine Learning-green"><img src="https://img.shields.io/badge/Deep Learning-red"><img src="https://img.shields.io/badge/Computer Vision-magenta"><img src="https://img.shields.io/badge/Data Science-blue"><img src="https://img.shields.io/badge/Natural Language Processing-red"><img src="https://img.shields.io/badge/Data Analytics-lightgreen"><img src="https://img.shields.io/badge/Data Structures and Algorithms-green"><img src="https://img.shields.io/badge/Robotics-brown"></p>
