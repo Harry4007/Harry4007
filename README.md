@@ -6,7 +6,7 @@ Hi, I'm Abhishek Chandravanshi . Welcome to my GitHub Page . I'm an Engineering 
 
 I'm intrested and skilled in:
 
-Machine Learning ( Particularly Data Science, Computer Vision, Deep Learning , AI , Data Analytics, NLP, and a little bit of RL and Time series too )
+Machine Learning ( Particularly Data Science, Computer Vision, Deep Learning , AI , Data Analytics, NLP, and a little bit of RL and Time series too)
 
 Robotics (Reinforcement Learning, Robot Dynamics, probablistic robotics each, but like robotics as a whole)
 
