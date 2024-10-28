@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Harry4007
 
-Hi, I'm Harinder Kumar . Welcome to my GitHub Page . I'm an Engineering Physics student at IIT BHU Varanasi (EP'25). I am fascinated by technology and love engineering very much. My work on vast variety of projects is availaible in my repositories, please see them :)
+Hi, I'm Abhishek Chandravanshi. Welcome to my GitHub Page . I'm an Engineering Physics student at IIT BHU Varanasi (EP'25). I am fascinated by technology and love engineering very much. My work on vast variety of projects is availaible in my repositories, please see them :)
 
 ## 👀 I’m interested in ...
 
